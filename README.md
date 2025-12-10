@@ -18,6 +18,7 @@ How to Run
 gcc robot_project_v2.c -o robot
 2. Run:
 ./robot
+
 Summary
 This project demonstrates the use of Structures, Pointers, and Dynamic Memory Management to
 create a responsive and stable control system.
