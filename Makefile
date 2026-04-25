@@ -5,7 +5,7 @@ CFLAGS = -Wall -Wextra -std=c99 -O2
 LDFLAGS = -lraylib -lm -lpthread -ldl -lrt -lX11
 
 TARGET = robot_simulation
-SOURCE = robot_simulation.c
+SOURCE = main.c
 
 all: $(TARGET)
 
